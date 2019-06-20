@@ -17,7 +17,7 @@ import javax.persistence.Table;
  *
  */
 @Entity
-@Table(name = "categories")
+@Table(name = "marques")
 public class Marque {
 
 	/** id : Long */
